@@ -19,7 +19,7 @@ Designed to stabilize balance between two tokens by continuously swapping in bot
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/stabilizer_autoswap.git
+git clone https://github.com/satriatrader87/stabilizer_autoswap.git
 cd stabilizer_autoswap
 npm install
 ```
